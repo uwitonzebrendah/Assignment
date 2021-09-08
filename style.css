@@ -1,0 +1,42 @@
+header{
+    background-color:#ff9933;
+    display: flex;
+    color: whitesmoke;
+}
+.reg{
+    margin-left: 300px;
+}
+.third{
+    background-color:#ff9933 ;
+}
+footer{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.788);
+}
+.cell2{
+    margin-left: 400px;
+}
+li{
+    list-style: none;
+    color: white;
+}
+h4{
+    color: white;
+    text-align: center;
+}
+.last{
+    background-color:rgba(0, 0, 0, 0.788);
+}
+.third{
+    padding-bottom:20px ;
+}
+.nav{
+    display: flex;
+    
+    
+}
+.bar{
+    margin-left: 300px;
+    display: inline-flex;
+    
+}
